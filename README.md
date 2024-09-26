@@ -1,7 +1,2 @@
-# awesomedev
+# Git commands I should know be heart
 
-## h2
-
-### h3
-
-#### h4
